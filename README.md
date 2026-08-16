@@ -1,6 +1,6 @@
 # Hi 👋 I'm Vaibhav Patil
 
-### 🚀 Technical Lead | Cloud Solution Architect | Backend Specialist
+### 🚀 Specialist Technology | Cloud Solution Architect | Backend Specialist
 
 💡 11+ years of experience building **scalable, secure, cloud-native platforms**  
 
